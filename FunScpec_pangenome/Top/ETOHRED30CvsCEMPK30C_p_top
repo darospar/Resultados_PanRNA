@@ -1,0 +1,661 @@
+Input Cluster (n=156)
+YAL062W	GDH3
+YAR029W
+YAR030C
+YAR035W	YAT1
+YAR066W
+YAR068W
+YBR001C	NTH2
+YBR046C	ZTA1
+YBR047W	FMP23
+YBR093C	PHO5
+YBR116C
+YBR117C	TKL2
+YCL026C-B	HBN1
+YCR010C	ADY2
+YCR020C	PET18
+YCR025C
+YCR040W	MATALPHA1
+YCR106W	RDS1
+YCR107W	AAD3
+YDL085W	NDE2
+YDL168W	SFA1
+YDL218W
+YDL222C	FMP45
+YDL223C	HBT1
+YDR038C	ENA5
+YDR111C	ALT2
+YDR119W-A
+YDR133C
+YDR223W	CRF1
+YDR256C	CTA1
+YDR367W	KEI1
+YDR384C	ATO3
+YDR522C	SPS2
+YEL038W	UTR4
+YEL066W	HPA3
+YEL067C
+YEL073C
+YER024W	YAT2
+YER069W	ARG5,6
+YER076W-A
+YER121W
+YER150W	SPI1
+YER188W
+YFL053W	DAK2
+YFL061W	DDI2
+YGL117W
+YGL158W	RCK1
+YGL162W	SUT1
+YGL186C	TPN1
+YGL192W	IME4
+YGL249W	ZIP2
+YGL258W	VEL1
+YGL258W-A
+YGR066C
+YGR067C
+YGR088W	CTT1
+YGR109C	CLB6
+YGR121C	MEP1
+YGR154C	GTO1
+YGR205W	TDA10
+YGR243W	FMP43
+YHR044C	DOG1
+YHR092C	HXT4
+YHR139C	SPS100
+YHR162W
+YIL057C	RGI2
+YIL066C	RNR3
+YIL113W	SDP1
+YIL121W	QDR2
+YIL155C	GUT2
+YIL162W	SUC2
+YIL165C
+YIL166C
+YIL169C
+YIL172C	IMA3
+YIR027C	DAL1
+YIR032C	DAL3
+YJL089W	SIP4
+YJL135W
+YJL164C	TPK1
+YJL166W	QCR8
+YJL172W	CPS1
+YJL214W	HXT8
+YJL215C
+YJL216C	IMA5
+YJR095W	SFC1
+YJR109C	CPA2
+YKL141W	SDH3
+YKL217W	JEN1
+YKR039W	GAP1
+YLL052C	AQY2
+YLL053C
+YLL055W	YCT1
+YLR036C
+YLR258W	GSY2
+YLR267W	BOP2
+YLR296W
+YLR307C-A
+YLR377C	FBP1
+YLR432W	IMD3
+YML042W	CAT2
+YMR011W	HXT2
+YMR034C
+YMR035W	IMP2
+YMR095C	SNO1
+YMR096W	SNZ1
+YMR107W	SPG4
+YMR119W-A
+YMR169C	ALD3
+YMR251W	GTO3
+YMR303C	ADH2
+YNL036W	NCE103
+YNL045W	LAP2
+YNL117W	MLS1
+YNL142W	MEP2
+YNL234W
+YNL336W	COS1
+YNR071C
+YNR072W	HXT17
+YNR073C
+YOL058W	ARG1
+YOL140W	ARG8
+YOL147C	PEX11
+YOL154W	ZPS1
+YOL155C	HPF1
+YOL156W	HXT11
+YOL159C-A
+YOR028C	CIN5
+YOR092W	ECM3
+YOR100C	CRC1
+YOR161C	PNS1
+YOR178C	GAC1
+YOR302W
+YOR303W	CPA1
+YOR348C	PUT4
+YOR374W	ALD4
+YOR375C	GDH1
+YOR387C
+YOR388C	FDH1
+YPL033C	SRL4
+YPL189W	GUP2
+YPL192C	PRM3
+YPL200W	CSM4
+YPL201C	YIG1
+YPL241C	CIN2
+YPL264C
+YPL281C	ERR2
+YPR001W	CIT3
+YPR002W	PDH1
+YPR069C	SPE3
+YPR138C	MEP3
+YPR192W	AQY1
+YPR194C	OPT2
+YPR196W
+YPR200C	ARR2
+YPR201W	ARR3
+
+Genes Not Found:
+100-AUGUSTUS_MASKED-1375-CFF_4
+1011-AUGUSTUS_MASKED-CGH_5-16559
+1129-AUGUSTUS_MASKED-CFI_4-63651
+1206-AUGUSTUS_MASKED-CGH_5-16625
+1284-AUGUSTUS_MASKED-APC_4-8186
+1325-AUGUSTUS_MASKED-YBP-8463
+1331-AUGUSTUS_MASKED-CPG_1-7609
+1361-AUGUSTUS_MASKED-CPQ_4-15250
+1372-AUGUSTUS_MASKED-BAF_6-18361
+1473-MAKER-CET_4-8407
+1509-MAKER-AVT_6-51832
+1511-MAKER-ABP_6-5400
+1514-MAKER-CDL_3-6404
+1530-MAKER-BAM_7-7205
+1533-MAKER-ASC_6-27146
+1544-MAKER-BAP_7-6884
+1557-MAKER-ATH_3-9260
+1591-SNAP_MASKED-CQA_6-8135
+1628-SNAP_MASKED-CQS_4-6404
+1643-SNAP_MASKED-BAN_7-6824
+1725-SNAP_MASKED-ACI_7-6868
+1734-SNAP_MASKED-AVB_8-7946
+194-AUGUSTUS_MASKED-2860-CPI_4
+202-AUGUSTUS_MASKED-2866-CPI_4
+204-AUGUSTUS_MASKED-2970-AEE_3
+213-AUGUSTUS_MASKED-314-ALB_3
+217-AUGUSTUS_MASKED-339-ALB_3
+251-AUGUSTUS_MASKED-515-ADN_4
+282-AUGUSTUS_MASKED-647-BBP_3
+293-AUGUSTUS_MASKED-6738-ATQ_7
+397-AUGUSTUS_MASKED-9894-CPR_4
+482-MAKER-2990-BGP_1
+513-MAKER-5943-ACI_7
+603-SNAP_MASKED-2823-CPI_4
+638-SNAP_MASKED-477-AFG_4
+653-SNAP_MASKED-548-ADN_4
+734-AUGUSTUS_MASKED-AIE_1-5050
+755-AUGUSTUS_MASKED-AHM_1-7103
+756-AUGUSTUS_MASKED-AHM_1-7103
+770-AUGUSTUS_MASKED-AKG_3-6639
+785-AUGUSTUS_MASKED-CDT_2-5309
+97-AUGUSTUS_MASKED-1375-CFF_4
+YCLWTY5-1
+YDR134C
+YIR043C
+GO Molecular Function
+Category	p-value	In Category from Cluster	k	f
+ammonium transmembrane transporter activity [GO:0008519]	4.06679e-08	ADY2 ATO3 MEP1 MEP2 MEP3 	5	6
+catalytic activity [GO:0003824]	6.42326e-07	GDH3 NTH2 ZTA1 TKL2 SFA1 ENA5 ALT2 UTR4 ARG5,6 DDI2 DOG1 RNR3 IMA5 CPA2 GSY2 FBP1 IMD3 SNZ1 ADH2 LAP2 MLS1 YNR071C YNR073C ARG8 CPA1 GDH1 FDH1 SRL4 SPE3 	29	455
+transporter activity [GO:0005215]	7.49741e-06	HXT4 QDR2 YIL166C HXT8 JEN1 AQY2 YLL053C HXT2 HXT17 HXT11 AQY1 	11	90
+carnitine O-acetyltransferase activity [GO:0004092]	1.29405e-05	YAT1 YAT2 CAT2 	3	3
+mannose transmembrane transporter activity [GO:0015578]	1.71221e-05	HXT4 HXT8 HXT2 HXT17 HXT11 	5	15
+fructose transmembrane transporter activity [GO:0005353]	1.71221e-05	HXT4 HXT8 HXT2 HXT17 HXT11 	5	15
+glucose transmembrane transporter activity [GO:0005355]	4.61228e-05	HXT4 HXT8 HXT2 HXT17 HXT11 	5	18
+oxidoreductase activity [GO:0016491]	6.61805e-05	GDH3 ZTA1 HBN1 AAD3 NDE2 SFA1 CTA1 ARG5,6 CTT1 RNR3 GUT2 IMD3 ALD3 ADH2 YNR073C ALD4 GDH1 FDH1 	18	272
+catalase activity [GO:0004096]	0.000554676	CTA1 CTT1 	2	2
+glutamate dehydrogenase (NADP+) activity [GO:0004354]	0.000554676	GDH3 GDH1 	2	2
+substrate-specific transmembrane transporter activity [GO:0022891]	0.000713645	HXT4 HXT8 HXT2 HXT17 HXT11 	5	31
+water channel activity [GO:0015250]	0.00163815	AQY2 AQY1 	2	3
+carbamoyl-phosphate synthase activity [GO:0004086]	0.00163815	CPA2 CPA1 	2	3
+oxidoreductase activity, acting on the CH-NH2 group of donors, NAD or NADP as acceptor [GO:0016639]	0.00163815	GDH3 GDH1 	2	3
+carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity [GO:0004088]	0.00163815	CPA2 CPA1 	2	3
+pentose transmembrane transporter activity [GO:0015146]	0.00322543	HXT4 HXT2 	2	4
+L-proline transmembrane transporter activity [GO:0015193]	0.00322543	GAP1 PUT4 	2	4
+aldehyde dehydrogenase (NAD) activity [GO:0004029]	0.00529242	ALD3 ALD4 	2	5
+oligo-1,6-glucosidase activity [GO:0004574]	0.00529242	IMA3 IMA5 	2	5
+alcohol dehydrogenase (NAD) activity [GO:0004022]	0.00781586	SFA1 ADH2 	2	6
+aldehyde dehydrogenase [NAD(P)+] activity [GO:0004030]	0.00781586	ALD3 ALD4 	2	6
+glutathione transferase activity [GO:0004364]	0.0107733	GTO1 GTO3 	2	7
+hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds [GO:0016810]	0.0220369	YIL165C DAL1 	2	10
+spermidine synthase activity [GO:0004766]	0.0236256	SPE3 	1	1
+S-(hydroxymethyl)glutathione dehydrogenase activity [GO:0051903]	0.0236256	SFA1 	1	1
+2-methylcitrate dehydratase activity [GO:0047547]	0.0236256	PDH1 	1	1
+arsenate reductase activity [GO:0030611]	0.0236256	ARR2 	1	1
+acetate transmembrane transporter activity [GO:0015123]	0.0236256	ADY2 	1	1
+inositol phosphoceramide synthase regulator activity [GO:0070917]	0.0236256	KEI1 	1	1
+acireductone synthase activity [GO:0043874]	0.0236256	UTR4 	1	1
+D-amino-acid N-acetyltransferase activity [GO:0047812]	0.0236256	HPA3 	1	1
+acetylglutamate kinase activity [GO:0003991]	0.0236256	ARG5,6 	1	1
+N-acetyl-gamma-glutamyl-phosphate reductase activity [GO:0003942]	0.0236256	ARG5,6 	1	1
+arsenite transmembrane transporter activity [GO:0015105]	0.0236256	ARR3 	1	1
+antimonite transmembrane transporter activity [GO:0015104]	0.0236256	ARR3 	1	1
+2-methylcitrate synthase activity [GO:0050440]	0.0236256	CIT3 	1	1
+bile acid:sodium symporter activity [GO:0008508]	0.0236256	ARR3 	1	1
+formate dehydrogenase (NAD+) activity [GO:0008863]	0.0236256	FDH1 	1	1
+neutral amino acid transmembrane transporter activity [GO:0015175]	0.0236256	PUT4 	1	1
+vitamin transporter activity [GO:0051183]	0.0236256	TPN1 	1	1
+mRNA (N6-adenosine)-methyltransferase activity [GO:0001734]	0.0236256	IME4 	1	1
+mRNA (2'-O-methyladenosine-N6-)-methyltransferase activity [GO:0016422]	0.0236256	IME4 	1	1
+carnitine:acyl carnitine antiporter activity [GO:0005476]	0.0236256	CRC1 	1	1
+2-alkenal reductase activity [GO:0032440]	0.0236256	ZTA1 	1	1
+N2-acetyl-L-ornithine:2-oxoglutarate 5-aminotransferase activity [GO:0003992]	0.0236256	ARG8 	1	1
+NADPH:quinone reductase activity [GO:0003960]	0.0236256	ZTA1 	1	1
+argininosuccinate synthase activity [GO:0004055]	0.0236256	ARG1 	1	1
+MAP kinase tyrosine phosphatase activity [GO:0033550]	0.0236256	SDP1 	1	1
+glycerol-3-phosphate dehydrogenase activity [GO:0004368]	0.0236256	GUT2 	1	1
+sn-glycerol-3-phosphate:ubiquinone oxidoreductase activity [GO:0052590]	0.0236256	GUT2 	1	1
+sn-glycerol-3-phosphate:ubiquinone-8 oxidoreductase activity [GO:0052591]	0.0236256	GUT2 	1	1
+beta-fructofuranosidase activity [GO:0004564]	0.0236256	SUC2 	1	1
+allantoinase activity [GO:0004038]	0.0236256	DAL1 	1	1
+mannitol dehydrogenase activity [GO:0046029]	0.0236256	YNR073C 	1	1
+leukotriene-A4 hydrolase activity [GO:0004463]	0.0236256	LAP2 	1	1
+ureidoglycolate hydrolase activity [GO:0004848]	0.0236256	DAL3 	1	1
+AU-rich element binding [GO:0017091]	0.0236256	ZTA1 	1	1
+carbonate dehydratase activity [GO:0004089]	0.0236256	NCE103 	1	1
+succinate:fumarate antiporter activity [GO:0005469]	0.0236256	SFC1 	1	1
+secondary active monocarboxylate transmembrane transporter activity [GO:0015355]	0.0236256	JEN1 	1	1
+selenite:hydrogen symporter activity [GO:0097079]	0.0236256	JEN1 	1	1
+cysteine transmembrane transporter activity [GO:0033229]	0.0236256	YCT1 	1	1
+peroxidase activity [GO:0004601]	0.0265214	CTA1 CTT1 	2	11
+heme binding [GO:0020037]	0.0389032	CTA1 CTT1 YNL234W 	3	32
+fructose 1,6-bisphosphate 1-phosphatase activity [GO:0042132]	0.0466966	FBP1 	1	2
+epoxide hydrolase activity [GO:0004301]	0.0466966	LAP2 	1	2
+malate synthase activity [GO:0004474]	0.0466966	MLS1 	1	2
+hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides [GO:0016812]	0.0466966	DAL1 	1	2
+metallocarboxypeptidase activity [GO:0004181]	0.0466966	CPS1 	1	2
+2-deoxyglucose-6-phosphatase activity [GO:0003850]	0.0466966	DOG1 	1	2
+oxygen binding [GO:0019825]	0.0466966	YNL234W 	1	2
+choline transmembrane transporter activity [GO:0015220]	0.0466966	PNS1 	1	2
+glycogen (starch) synthase activity [GO:0004373]	0.0466966	GSY2 	1	2
+glycerone kinase activity [GO:0004371]	0.0466966	DAK2 	1	2
+L-alanine:2-oxoglutarate aminotransferase activity [GO:0004021]	0.0466966	ALT2 	1	2
+hydroxymethylfurfural reductase (NADH) activity [GO:0033833]	0.0466966	SFA1 	1	2
+NADH dehydrogenase activity [GO:0003954]	0.0466966	NDE2 	1	2
+NAD(P)H nitroreductase activity [GO:0018545]	0.0466966	HBN1 	1	2
+ion transmembrane transporter activity [GO:0015075]	0.0466966	YCT1 	1	2
+transketolase activity [GO:0004802]	0.0466966	TKL2 	1	2
+
+
+
+GO Biological Process
+Category	p-value	In Category from Cluster	k	f
+ammonium transport [GO:0015696]	4.06679e-08	ADY2 ATO3 MEP1 MEP2 MEP3 	5	6
+metabolic process [GO:0008152]	5.29311e-07	GDH3 NTH2 ZTA1 TKL2 SFA1 ENA5 UTR4 HPA3 ARG5,6 DDI2 DOG1 RNR3 SUC2 CPS1 IMA5 CPA2 GSY2 FBP1 IMD3 SNZ1 ALD3 ADH2 LAP2 YNR073C ALD4 GDH1 FDH1 SRL4 	28	425
+nitrogen utilization [GO:0019740]	8.0613e-07	ADY2 ATO3 MEP1 MEP2 MEP3 	5	9
+ammonia assimilation cycle [GO:0019676]	1.47228e-06	GDH3 GAP1 PUT4 GDH1 	4	5
+arginine biosynthetic process [GO:0006526]	1.58157e-06	ARG5,6 CPA2 ARG1 ARG8 CPA1 	5	10
+transmembrane transport [GO:0055085]	2.09749e-06	ADY2 ENA5 ATO3 TPN1 MEP1 HXT4 QDR2 YIL166C HXT8 SFC1 JEN1 GAP1 YCT1 HXT2 MEP2 HXT17 HXT11 ECM3 PUT4 MEP3 AQY1 OPT2 	22	303
+carnitine metabolic process [GO:0009437]	1.29405e-05	YAT1 YAT2 CAT2 	3	3
+ammonium transmembrane transport [GO:0072488]	1.29405e-05	MEP1 MEP2 MEP3 	3	3
+oxidation-reduction process [GO:0055114]	6.61805e-05	GDH3 ZTA1 HBN1 AAD3 NDE2 SFA1 CTA1 ARG5,6 CTT1 RNR3 GUT2 IMD3 ALD3 ADH2 YNR073C ALD4 GDH1 FDH1 	18	272
+hexose transport [GO:0008645]	0.000249461	HXT4 HXT8 HXT17 HXT11 	4	14
+nitrogen compound metabolic process [GO:0006807]	0.000249461	YIL165C CPS1 CPA2 CPA1 	4	14
+propionate catabolic process, 2-methylcitrate cycle [GO:0019629]	0.000554676	CIT3 PDH1 	2	2
+response to reactive oxygen species [GO:0000302]	0.000554676	CTA1 CTT1 	2	2
+carbohydrate transport [GO:0008643]	0.000713645	HXT4 HXT8 HXT2 HXT17 HXT11 	5	31
+NADH oxidation [GO:0006116]	0.00137399	NDE2 GUT2 ADH2 	3	10
+gamma-aminobutyric acid transport [GO:0015812]	0.00163815	GAP1 PUT4 	2	3
+hydrogen peroxide catabolic process [GO:0042744]	0.00163815	CTA1 CTT1 	2	3
+water transport [GO:0006833]	0.00163815	AQY2 AQY1 	2	3
+transport [GO:0006810]	0.00232179	YAT1 ADY2 ENA5 ATO3 YAT2 TPN1 MEP1 HXT4 QDR2 YIL166C QCR8 HXT8 SFC1 SDH3 JEN1 GAP1 AQY2 YLL053C YCT1 CAT2 HXT2 MEP2 HXT17 HXT11 CRC1 PNS1 PUT4 GUP2 MEP3 AQY1 OPT2 ARR3 	32	815
+ornithine biosynthetic process [GO:0006592]	0.00322543	ARG5,6 ARG8 	2	4
+ethanol metabolic process [GO:0006067]	0.00322543	ADH2 ALD4 	2	4
+fatty acid metabolic process [GO:0006631]	0.00394459	YAT1 YAT2 CAT2 CRC1 	4	28
+propionate metabolic process [GO:0019541]	0.00529242	CIT3 PDH1 	2	5
+cellular amino acid metabolic process [GO:0006520]	0.00573854	GDH3 ARG5,6 SPS100 GDH1 	4	31
+disaccharide catabolic process [GO:0046352]	0.00781586	IMA3 IMA5 	2	6
+amino acid catabolic process to alcohol via Ehrlich pathway [GO:0000947]	0.00781586	SFA1 ADH2 	2	6
+pyridoxine metabolic process [GO:0008614]	0.00781586	SNO1 SNZ1 	2	6
+allantoin catabolic process [GO:0000256]	0.0107733	DAL1 DAL3 	2	7
+sodium ion transport [GO:0006814]	0.0179043	ENA5 ARR3 	2	9
+alcohol metabolic process [GO:0006066]	0.0179043	YAT1 YAT2 	2	9
+glutathione metabolic process [GO:0006749]	0.0220369	GTO1 GTO3 	2	10
+response to oxidative stress [GO:0006979]	0.0220369	CTA1 CTT1 	2	10
+pyridoxine biosynthetic process [GO:0008615]	0.0220369	SNO1 SNZ1 	2	10
+glycerol metabolic process [GO:0006071]	0.0220369	DAK2 GUT2 	2	10
+citrulline metabolic process [GO:0000052]	0.0236256	ARG1 	1	1
+ethanol oxidation [GO:0006069]	0.0236256	SFA1 	1	1
+argininosuccinate metabolic process [GO:0000053]	0.0236256	ARG1 	1	1
+neutral amino acid transport [GO:0015804]	0.0236256	PUT4 	1	1
+leukotriene biosynthetic process [GO:0019370]	0.0236256	LAP2 	1	1
+plasma membrane pyruvate transport [GO:0006849]	0.0236256	JEN1 	1	1
+thiamine metabolic process [GO:0006772]	0.0236256	PET18 	1	1
+age-dependent response to reactive oxygen species [GO:0001315]	0.0236256	CTA1 	1	1
+formate catabolic process [GO:0042183]	0.0236256	FDH1 	1	1
+allantoin assimilation pathway [GO:0009442]	0.0236256	DAL1 	1	1
+plasma membrane lactate transport [GO:0035879]	0.0236256	JEN1 	1	1
+D-amino acid metabolic process [GO:0046416]	0.0236256	HPA3 	1	1
+cysteine transport [GO:0042883]	0.0236256	YCT1 	1	1
+deoxyribonucleoside triphosphate metabolic process [GO:0009200]	0.0236256	SRL4 	1	1
+nuclear membrane fusion involved in karyogamy [GO:0048288]	0.0236256	PRM3 	1	1
+propionate catabolic process [GO:0019543]	0.0236256	PDH1 	1	1
+succinate transport [GO:0015744]	0.0236256	SFC1 	1	1
+potassium ion import [GO:0010107]	0.0236256	QDR2 	1	1
+carbohydrate transmembrane transport [GO:0034219]	0.0236256	JEN1 	1	1
+mRNA methylation [GO:0080009]	0.0236256	IME4 	1	1
+fumarate transport [GO:0015741]	0.0236256	SFC1 	1	1
+plasma membrane selenite transport [GO:0097080]	0.0236256	JEN1 	1	1
+antimonite transport [GO:0015699]	0.0236256	ARR3 	1	1
+synapsis [GO:0007129]	0.0265214	ZIP2 CSM4 	2	11
+response to arsenic-containing substance [GO:0046685]	0.0265214	ARR2 ARR3 	2	11
+purine base metabolic process [GO:0006144]	0.0265214	DAL1 DAL3 	2	11
+cellular amino acid biosynthetic process [GO:0008652]	0.0280032	UTR4 ARG5,6 CPA2 ARG1 ARG8 CPA1 	6	98
+glycogen biosynthetic process [GO:0005978]	0.0313391	GSY2 GAC1 	2	12
+tricarboxylic acid cycle [GO:0006099]	0.0329448	SDH3 MLS1 CIT3 	3	30
+glutamate biosynthetic process [GO:0006537]	0.036472	GDH3 GDH1 	2	13
+meiosis [GO:0007126]	0.0389161	ADY2 SPS2 IME4 ZIP2 SPS100 GAC1 CSM4 	7	134
+fatty acid oxidation [GO:0019395]	0.0466966	PEX11 	1	2
+oxygen transport [GO:0015671]	0.0466966	YNL234W 	1	2
+positive regulation of DNA replication [GO:0045740]	0.0466966	CLB6 	1	2
+arsenite transport [GO:0015700]	0.0466966	ARR3 	1	2
+vitamin transport [GO:0051180]	0.0466966	TPN1 	1	2
+energy reserve metabolic process [GO:0006112]	0.0466966	RGI2 	1	2
+beta-alanine biosynthetic process [GO:0019483]	0.0466966	ALD3 	1	2
+proline transport [GO:0015824]	0.0466966	PUT4 	1	2
+spermidine biosynthetic process [GO:0008295]	0.0466966	SPE3 	1	2
+negative regulation of ribosomal protein gene transcription from RNA polymerase II promoter [GO:0010688]	0.0466966	CRF1 	1	2
+formaldehyde catabolic process [GO:0046294]	0.0466966	SFA1 	1	2
+furaldehyde metabolic process [GO:0033859]	0.0466966	SFA1 	1	2
+NADH regeneration [GO:0006735]	0.0466966	FDH1 	1	2
+acetate transport [GO:0006846]	0.0466966	ADY2 	1	2
+positive regulation of transcription, mating-type specific [GO:0045895]	0.0466966	MATALPHA1 	1	2
+single fertilization [GO:0007338]	0.0466966	MATALPHA1 	1	2
+regulation of gene-specific transcription [GO:0032583]	0.0466966	MATALPHA1 	1	2
+trehalose metabolic process [GO:0005991]	0.0466966	NTH2 	1	2
+biological_process [GO:0008150]	0.0482938	YAR029W YAR066W YAR068W FMP23 HBN1 YDL218W ALT2 YDR119W-A YEL067C YEL073C YER121W DDI2 YGL117W VEL1 YGL258W-A YGR066C YGR067C TDA10 FMP43 YHR162W YIL169C YLL053C YLR036C BOP2 YLR307C-A YMR034C SPG4 YNL234W COS1 YNR071C YNR073C ZPS1 YOL159C-A PNS1 YOR387C YPL264C ERR2 	37	1203
+
+
+
+GO Cellular Component
+Category	p-value	In Category from Cluster	k	f
+plasma membrane [GO:0005886]	1.90772e-06	ADY2 FMP45 ENA5 ATO3 SPS2 TPN1 MEP1 HXT4 QDR2 DAL3 HXT8 JEN1 GAP1 AQY2 YCT1 HXT2 MEP2 HXT17 HXT11 PNS1 PUT4 MEP3 AQY1 ARR3 	24	350
+cellular_component [GO:0005575]	0.000412313	YAR066W YAR068W AAD3 YDR119W-A YEL073C YER121W DAK2 DDI2 YGL117W RCK1 IME4 YGL258W-A YGR066C YGR067C CLB6 DOG1 YIL165C YIL169C DAL1 IMA5 BOP2 YLR307C-A SNZ1 SPG4 YNR071C YNR073C SRL4 CIN2 ERR2 YPR196W ARR2 	31	704
+carbamoyl-phosphate synthase complex [GO:0005951]	0.000554676	CPA2 CPA1 	2	2
+peroxisomal matrix [GO:0005782]	0.00185664	CTA1 CAT2 MLS1 	3	11
+integral to plasma membrane [GO:0005887]	0.00220278	QDR2 GAP1 PNS1 OPT2 	4	24
+plasma membrane enriched fraction [GO:0001950]	0.00404625	ADY2 FMP45 HBT1 ENA5 SPS2 IMD3 PNS1 	7	86
+membrane [GO:0016020]	0.014242	YAR029W YAT1 ADY2 YDL218W FMP45 ENA5 YDR119W-A KEI1 ATO3 SPS2 SPI1 TPN1 MEP1 HXT4 QDR2 GUT2 YIL166C YIL169C DAL3 QCR8 CPS1 HXT8 SFC1 SDH3 JEN1 GAP1 AQY2 YLL053C YCT1 YLR036C CAT2 HXT2 YMR034C IMP2 MEP2 COS1 HXT17 PEX11 HPF1 HXT11 ECM3 CRC1 PNS1 PUT4 GUP2 PRM3 CSM4 YPL264C MEP3 AQY1 OPT2 ARR3 	52	1671
+peroxisome [GO:0005777]	0.0194051	CTA1 GTO1 CAT2 MLS1 PEX11 	5	66
+fungal-type vacuole lumen [GO:0000328]	0.0220369	CPS1 GAP1 	2	10
+extrinsic to nuclear outer membrane [GO:0031316]	0.0236256	PRM3 	1	1
+soluble fraction [GO:0005625]	0.024338	GDH3 VEL1 GDH1 YOR387C 	4	47
+integral to membrane [GO:0016021]	0.0268401	ADY2 YDL218W FMP45 ENA5 YDR119W-A KEI1 ATO3 TPN1 MEP1 HXT4 QDR2 YIL166C QCR8 CPS1 HXT8 SFC1 SDH3 JEN1 GAP1 YLL053C YCT1 YLR036C HXT2 YMR034C IMP2 MEP2 COS1 HXT17 HXT11 ECM3 CRC1 PNS1 PUT4 GUP2 PRM3 CSM4 YPL264C MEP3 AQY1 OPT2 ARR3 	41	1303
+cytosol [GO:0005829]	0.037636	PET18 YAT2 VEL1 FBP1 ARG1 YOR302W YOR387C FDH1 YIG1 	9	192
+glyoxysome [GO:0009514]	0.0466966	MLS1 	1	2
+multivesicular body [GO:0005771]	0.0466966	GAP1 	1	2
+synaptonemal complex [GO:0000795]	0.0466966	ZIP2 	1	2
+inositol phosphoceramide synthase complex [GO:0070916]	0.0466966	KEI1 	1	2
+
+
+
+MIPS Functional Classification
+Category	p-value	In Category from Cluster	k	f
+metabolism of nonprotein amino acids [01.20.17.01]	3.06953e-08	YAT1 YAT2 ARG5,6 CAT2 ALD3 ARG8 	6	10
+biosynthesis of arginine [01.01.03.05.01]	7.62505e-06	ARG5,6 CPA2 ARG1 ARG8 CPA1 	5	13
+nitrogen, sulfur and selenium metabolism [01.02]	3.35421e-05	GDH3 ADY2 ALT2 ATO3 DDI2 CPS1 ARG1 GDH1 	8	54
+C-compound and carbohydrate metabolism [01.05]	6.63118e-05	YAT1 PHO5 AAD3 SFA1 YAT2 DAK2 DOG1 GUT2 ALD3 LAP2 MLS1 YNR071C YNR073C YIG1 ERR2 PDH1 	16	223
+cellular import [20.09.18]	0.000250797	MEP1 HXT4 HXT8 GAP1 HXT2 MEP2 HXT17 HXT11 PUT4 	9	90
+catalase reaction [32.07.07.01]	0.000554676	CTA1 CTT1 	2	2
+sugar, glucoside, polyol and carboxylate catabolism [01.05.02.07]	0.000604744	NTH2 TKL2 SUC2 IMA3 IMA5 SDH3 HPF1 CIT3 	8	81
+sugar transport [20.01.03.01]	0.000713645	HXT4 HXT8 HXT2 HXT17 HXT11 	5	31
+C-compound and carbohydrate transport [20.01.03]	0.0011039	YAT1 ADY2 YAT2 CAT2 GUP2 	5	34
+ion channels [20.03.01.01]	0.00137399	AQY2 YLL053C AQY1 	3	10
+anion transport [20.01.01.07]	0.00185664	MEP1 MEP2 MEP3 	3	11
+alcohol fermentation [02.16.01]	0.00310825	NDE2 ADH2 ALD4 	3	13
+C4-dicarboxylate transport (e.g. malate, succinate, fumarate) [20.01.03.03]	0.00322543	SFC1 JEN1 	2	4
+degradation of glutamine [01.01.03.01.02]	0.00322543	CPA2 CPA1 	2	4
+catabolism of nitrogenous compounds [01.02.02.09]	0.00529242	DAL1 DAL3 	2	5
+tricarboxylic-acid pathway (citrate cycle, Krebs cycle, TCA cycle) [02.10]	0.00573854	GDH3 SDH3 GDH1 CIT3 	4	31
+meiosis [10.03.02]	0.00748124	ADY2 SPS2 RCK1 IME4 ZIP2 CLB6 GAC1 SRL4 CSM4 	9	146
+metabolism of energy reserves (e.g. glycogen, trehalose) [02.19]	0.0100013	NTH2 IMA3 IMA5 GSY2 GAC1 	5	56
+antiporter [20.03.02.03]	0.0107733	SFC1 CRC1 	2	7
+allantoin and allantoate transport [20.01.23]	0.0141431	YIL166C YCT1 	2	8
+transport facilities [20.03]	0.016567	YAT1 ADY2 ATO3 YAT2 YIL166C OPT2 	6	87
+DNA processing [10.01]	0.0179043	ADY2 SRL4 	2	9
+C-2 compound and organic acid catabolism [01.05.06.07]	0.0179043	ADH2 ALD4 	2	9
+fermentation [02.16]	0.0181954	AAD3 ALD3 FDH1 	3	24
+lipid/fatty acid transport [20.01.13]	0.0195532	YAT1 YAT2 SUT1 YMR034C 	4	44
+mRNA modification [11.06.03]	0.0236256	IME4 	1	1
+metabolism of eicosanoids [01.20.05.09]	0.0236256	LAP2 	1	1
+DNA degradation [01.03.16.03]	0.036472	ADY2 SRL4 	2	13
+heme binding [16.21.01]	0.0466966	YNL234W 	1	2
+biosynthesis of glutamate [01.01.03.02.01]	0.0476144	GDH3 GDH1 	2	15
+sugar, glucoside, polyol and carboxylate anabolism [01.05.02.04]	0.0487919	NTH2 TKL2 SUC2 	3	35
+
+
+
+MIPS Phenotypes
+Category	p-value	In Category from Cluster	k	f
+Methylamine resistance [92.15]	0.0236256	MEP1 	1	1
+
+
+
+MIPS Subcellular Localization
+Category	p-value	In Category from Cluster	k	f
+plasma membrane [720]	0.00129977	ATO3 MEP1 HXT4 QDR2 HXT8 GAP1 HXT2 MEP2 HXT17 HXT11 PUT4 ARR3 	12	184
+peroxisomal matrix [760.03]	0.00949288	CTA1 CAT2 MLS1 	3	19
+peroxisome [760]	0.0278884	CTA1 CAT2 MLS1 PEX11 	4	49
+cell periphery [715]	0.0314636	PET18 ENA5 ATO3 MEP1 QDR2 GAP1 HXT2 MEP2 PNS1 MEP3 	10	216
+mitochondria [755]	0.0436845	GDH3 YAT1 NTH2 FMP23 ADY2 YCR025C NDE2 SFA1 FMP45 ATO3 YEL067C YAT2 ARG5,6 VEL1 FMP43 YHR162W RNR3 SDP1 GUT2 SUC2 QCR8 SFC1 SDH3 JEN1 CAT2 IMP2 ARG8 CRC1 PNS1 ALD4 CIT3 PDH1 SPE3 	33	1042
+
+
+
+MIPS Protein Complexes
+Category	p-value	In Category from Cluster	k	f
+Arginine-specific carbamoylphosphate synthase [80]	0.000554676	CPA2 CPA1 	2	2
+other respiration chain complexes [420.60]	0.00388792	NDE2 GUT2 ALD4 	3	14
+Catalase T [123.20]	0.0236256	CTT1 	1	1
+Catalase A [123.10]	0.0236256	CTA1 	1	1
+Complex Number 30 [550.2.30]	0.0466966	RNR3 	1	2
+Complex Number 33, probably intermediate and energy metabolism [550.1.33]	0.0466966	LAP2 	1	2
+Complex Number 26, probably intermediate and energy metabolism [550.1.26]	0.0466966	SPE3 	1	2
+Inner membrane protease [350.20]	0.0466966	IMP2 	1	2
+Complex Number 28, probably intermediate and energy metabolism [550.1.28]	0.0466966	TKL2 	1	2
+
+
+
+MIPS Protein Classes
+Category	p-value	In Category from Cluster	k	f
+Major facilitator superfamily proteins (MFS) [121]	4.69114e-06	TPN1 MEP1 HXT4 QDR2 YIL166C HXT8 JEN1 GAP1 YCT1 HXT2 MEP2 HXT11 PUT4 MEP3 	14	140
+aldehyde dehydrogenases [55.11]	0.0179043	ALD3 ALD4 	2	9
+
+
+
+SMART Domains
+Category	p-value	In Category from Cluster	k	f
+<A href='http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=ELFV_dehydrog&BLAST=DUMMY'>ELFV_dehydrog</A>	0.00163815	GDH3 GDH1 	2	3
+<A href='http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=Pro_CA&BLAST=DUMMY'>Pro_CA</A>	0.0236256	NCE103 	1	1
+<A href='http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=Glyco_32&BLAST=DUMMY'>Glyco_32</A>	0.0236256	SUC2 	1	1
+<A href='http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=GAL4&BLAST=DUMMY'>GAL4</A>	0.0403116	RDS1 SUT1 SIP4 YPR196W 	4	55
+<A href='http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=Semialdhyde_dh&BLAST=DUMMY'>Semialdhyde_dh</A>	0.0466966	ARG5,6 	1	2
+
+
+
+PFam-A Domains
+Category	p-value	In Category from Cluster	k	f
+<A href='http://pfam.sanger.ac.uk/family?id=Carn_acyltransf'>Carn_acyltransf</A>	1.29405e-05	YAT1 YAT2 CAT2 	3	3
+<A href='http://pfam.sanger.ac.uk/family?id=Ammonium_transp'>Ammonium_transp</A>	1.29405e-05	MEP1 MEP2 MEP3 	3	3
+<A href='http://pfam.sanger.ac.uk/family?id=MFS_1'>MFS_1</A>	6.70496e-05	HXT4 QDR2 YIL166C HXT8 JEN1 YCT1 HXT2 HXT17 HXT11 	9	76
+<A href='http://pfam.sanger.ac.uk/family?id=Sugar_tr'>Sugar_tr</A>	0.00023324	HXT4 HXT8 JEN1 HXT2 HXT17 HXT11 	6	38
+<A href='http://pfam.sanger.ac.uk/family?id=ELFV_dehydrog_N'>ELFV_dehydrog_N</A>	0.000554676	GDH3 GDH1 	2	2
+<A href='http://pfam.sanger.ac.uk/family?id=SBF'>SBF</A>	0.000554676	YMR034C ARR3 	2	2
+<A href='http://pfam.sanger.ac.uk/family?id=Catalase-rel'>Catalase-rel</A>	0.000554676	CTA1 CTT1 	2	2
+<A href='http://pfam.sanger.ac.uk/family?id=Vel1p'>Vel1p</A>	0.000554676	VEL1 YOR387C 	2	2
+<A href='http://pfam.sanger.ac.uk/family?id=Catalase'>Catalase</A>	0.000554676	CTA1 CTT1 	2	2
+<A href='http://pfam.sanger.ac.uk/family?id=Grp1_Fun34_YaaH'>Grp1_Fun34_YaaH</A>	0.00163815	ADY2 ATO3 	2	3
+<A href='http://pfam.sanger.ac.uk/family?id=UPF0041'>UPF0041</A>	0.00163815	FMP43 YHR162W 	2	3
+<A href='http://pfam.sanger.ac.uk/family?id=ELFV_dehydrog'>ELFV_dehydrog</A>	0.00163815	GDH3 GDH1 	2	3
+<A href='http://pfam.sanger.ac.uk/family?id=MIP'>MIP</A>	0.00322543	YLL053C AQY1 	2	4
+<A href='http://pfam.sanger.ac.uk/family?id=ADH_zinc_N'>ADH_zinc_N</A>	0.00689563	ZTA1 SFA1 ADH2 	3	17
+<A href='http://pfam.sanger.ac.uk/family?id=ADH_N'>ADH_N</A>	0.0109773	ZTA1 SFA1 ADH2 	3	20
+<A href='http://pfam.sanger.ac.uk/family?id=Aldedh'>Aldedh</A>	0.0179043	ALD3 ALD4 	2	9
+<A href='http://pfam.sanger.ac.uk/family?id=Hydrolase'>Hydrolase</A>	0.0203255	ENA5 UTR4 DOG1 	3	25
+<A href='http://pfam.sanger.ac.uk/family?id=ThiG'>ThiG</A>	0.0236256	SNZ1 	1	1
+<A href='http://pfam.sanger.ac.uk/family?id=Pro_CA'>Pro_CA</A>	0.0236256	NCE103 	1	1
+<A href='http://pfam.sanger.ac.uk/family?id=Leuk-A4-hydro_C'>Leuk-A4-hydro_C</A>	0.0236256	LAP2 	1	1
+<A href='http://pfam.sanger.ac.uk/family?id=DUF1753'>DUF1753</A>	0.0236256	KEI1 	1	1
+<A href='http://pfam.sanger.ac.uk/family?id=FBPase'>FBPase</A>	0.0236256	FBP1 	1	1
+<A href='http://pfam.sanger.ac.uk/family?id=UcrQ'>UcrQ</A>	0.0236256	QCR8 	1	1
+<A href='http://pfam.sanger.ac.uk/family?id=Ureidogly_hydro'>Ureidogly_hydro</A>	0.0236256	DAL3 	1	1
+<A href='http://pfam.sanger.ac.uk/family?id=Glyco_hydro_32C'>Glyco_hydro_32C</A>	0.0236256	SUC2 	1	1
+<A href='http://pfam.sanger.ac.uk/family?id=Glyco_hydro_32N'>Glyco_hydro_32N</A>	0.0236256	SUC2 	1	1
+<A href='http://pfam.sanger.ac.uk/family?id=Arginosuc_synth'>Arginosuc_synth</A>	0.0236256	ARG1 	1	1
+<A href='http://pfam.sanger.ac.uk/family?id=PEX11'>PEX11</A>	0.0236256	PEX11 	1	1
+<A href='http://pfam.sanger.ac.uk/family?id=DUF580'>DUF580</A>	0.0236256	PNS1 	1	1
+<A href='http://pfam.sanger.ac.uk/family?id=Leader_CPA1'>Leader_CPA1</A>	0.0236256	YOR302W 	1	1
+<A href='http://pfam.sanger.ac.uk/family?id=MmgE_PrpD'>MmgE_PrpD</A>	0.0236256	PDH1 	1	1
+<A href='http://pfam.sanger.ac.uk/family?id=Glycogen_syn'>Glycogen_syn</A>	0.0466966	GSY2 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=Dak2'>Dak2</A>	0.0466966	DAK2 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=Dak1'>Dak1</A>	0.0466966	DAK2 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=Globin'>Globin</A>	0.0466966	YNL234W 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=Ribonuc_red_lgC'>Ribonuc_red_lgC</A>	0.0466966	RNR3 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=Ribonuc_red_lgN'>Ribonuc_red_lgN</A>	0.0466966	RNR3 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=Peptidase_S24'>Peptidase_S24</A>	0.0466966	IMP2 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=Amidohydro_3'>Amidohydro_3</A>	0.0466966	DAL1 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=Malate_synthase'>Malate_synthase</A>	0.0466966	MLS1 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=ATP-cone'>ATP-cone</A>	0.0466966	RNR3 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=CPSase_sm_chain'>CPSase_sm_chain</A>	0.0466966	CPA1 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=CPSase_L_D3'>CPSase_L_D3</A>	0.0466966	CPA2 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=DUF619'>DUF619</A>	0.0466966	ARG5,6 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=Sdh_cyt'>Sdh_cyt</A>	0.0466966	SDH3 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=Spermine_synth'>Spermine_synth</A>	0.0466966	SPE3 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=Mannitol_dh_C'>Mannitol_dh_C</A>	0.0466966	YNR073C 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=Mannitol_dh'>Mannitol_dh</A>	0.0466966	YNR073C 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=CRF1'>CRF1</A>	0.0466966	CRF1 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=DUF6'>DUF6</A>	0.0466966	YPL264C 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=Semialdhyde_dhC'>Semialdhyde_dhC</A>	0.0466966	ARG5,6 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=Semialdhyde_dh'>Semialdhyde_dh</A>	0.0466966	ARG5,6 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=MT-A70'>MT-A70</A>	0.0466966	IME4 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=Nitroreductase'>Nitroreductase</A>	0.0466966	HBN1 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=Transketolase_N'>Transketolase_N</A>	0.0466966	TKL2 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=Vac_ImportDeg'>Vac_ImportDeg</A>	0.0466966	YGR066C 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=Trehalase'>Trehalase</A>	0.0466966	NTH2 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=Trehalase_Ca-bi'>Trehalase_Ca-bi</A>	0.0466966	NTH2 	1	2
+
+
+
+Yeast Two Hybrid - Uetz
+Category	p-value	In Category from Cluster	k	f
+YNL171C	0.0236256	RDS1 	1	1
+YER062C (HOR2)	0.0236256	YIG1 	1	1
+YMR096W (SNZ1)	0.0236256	SNO1 	1	1
+YIR032C (DAL3)	0.0236256	DAL3 	1	1
+YPL192C (PRM3)	0.0236256	PRM3 	1	1
+YMR095C (SNO1)	0.0466966	SNZ1 	1	2
+YMR094W (CTF13)	0.0466966	AQY2 	1	2
+YFL060C (SNO3)	0.0466966	SNZ1 	1	2
+YDR074W (TPS2)	0.0466966	YAR066W 	1	2
+YBR274W (CHK1)	0.0466966	GSY2 	1	2
+
+
+
+Yeast Two Hybrid - Ito (core)
+Category	p-value	In Category from Cluster	k	f
+YEL066W (HPA3)	0.0236256	HPA3 	1	1
+YLR377C (FBP1)	0.0236256	FBP1 	1	1
+YIL053W (RHR2)	0.0236256	YIG1 	1	1
+YJL137C (GLG2)	0.0236256	GSY2 	1	1
+YLR258W (GSY2)	0.0236256	GSY2 	1	1
+YLR267W (BOP2)	0.0236256	GDH3 	1	1
+YML042W (CAT2)	0.0236256	CAT2 	1	1
+YGL044C (RNA15)	0.0466966	YDL218W 	1	2
+YCL055W (KAR4)	0.0466966	IME4 	1	2
+
+
+
+Yeast Two Hybrid - Ito (full)
+Category	p-value	In Category from Cluster	k	f
+YNL333W (SNZ2)	0.00322543	SNO1 SNZ1 	2	4
+YER022W (SRB4)	0.00697849	FMP23 FMP43 SDH3 YNR071C CIN5 CPA1 FDH1 	7	95
+YDR006C (SOK1)	0.0236256	GAC1 	1	1
+YOL075C	0.0236256	CAT2 	1	1
+YMR134W	0.0236256	CPA1 	1	1
+YBR158W (CST13)	0.0236256	ALT2 	1	1
+YMR009W	0.0236256	ATO3 	1	1
+YLR381W (CTF3)	0.0236256	YAT1 	1	1
+YGL113W (SLD3)	0.0236256	OPT2 	1	1
+YLR377C (FBP1)	0.0236256	FBP1 	1	1
+YKR065C	0.0236256	YLR036C 	1	1
+YGR167W (CLC1)	0.0236256	CIN5 	1	1
+YGR285C (ZUO1)	0.0236256	CPS1 	1	1
+YHR065C (RRP3)	0.0236256	KEI1 	1	1
+YIL045W (PIG2)	0.0236256	GAC1 	1	1
+YLR197W (SIK1)	0.0236256	CPA1 	1	1
+YLL026W (HSP104)	0.0236256	TDA10 	1	1
+YJL128C (PBS2)	0.0236256	FMP23 	1	1
+YOR303W (CPA1)	0.0236256	NCE103 	1	1
+YLR347C (KAP95)	0.02498	CTA1 HPA3 FBP1 	3	27
+YJL057C (IKS1)	0.0466966	CIN5 	1	2
+YLR267W (BOP2)	0.0466966	GDH3 	1	2
+YIL053W (RHR2)	0.0466966	YIG1 	1	2
+YGL236C (MTO1)	0.0466966	RGI2 	1	2
+YGL187C (COX4)	0.0466966	CAT2 	1	2
+YML121W (GTR1)	0.0466966	FBP1 	1	2
+YER143W (DDI1)	0.0466966	YNR071C 	1	2
+YER082C (UTP7)	0.0466966	YJL135W 	1	2
+YNL252C (MRPL17)	0.0466966	DAL1 	1	2
+YDR380W (ARO10)	0.0466966	ENA5 	1	2
+YDR052C (DBF4)	0.0466966	GAC1 	1	2
+YDL175C (AIR2)	0.0466966	YNR073C 	1	2
+YBR067C (TIP1)	0.0466966	MEP3 	1	2
+
+
+
+Synthetic Genetic Array Analysis
+Category	p-value	In Category from Cluster	k	f
+
+
+
+MDS Proteomics Complexes
+Category	p-value	In Category from Cluster	k	f
+YKL011C (CCE1)	0.0236256	RNR3 	1	1
+YOR026W (BUB3)	0.0466966	GSY2 	1	2
+
+
+
+Cellzome Complexes
+Category	p-value	In Category from Cluster	k	f
+YNL045W	0.0466966	LAP2 	1	2
+YPR069C (SPE3)	0.0466966	SPE3 	1	2
+YBR117C (TKL2)	0.0466966	TKL2 	1	2
+
+
+
+Proteome Localization--Observed
+Category	p-value	In Category from Cluster	k	f
+
+
+
+Proteome Localization--Predicted+Observed
+Category	p-value	In Category from Cluster	k	f
+cyt	1.11198e-05	GDH3 YAR029W YAR030C YAT1 YAR068W NTH2 ZTA1 FMP23 YBR116C TKL2 ADY2 PET18 AAD3 NDE2 SFA1 HBT1 ENA5 ALT2 YDR133C ATO3 UTR4 HPA3 YER121W SPI1 YER188W DAK2 DDI2 YGL117W RCK1 TPN1 YGR066C CTT1 MEP1 TDA10 FMP43 DOG1 HXT4 YHR162W RGI2 RNR3 SDP1 QDR2 YIL165C YIL166C DAL1 DAL3 SIP4 YJL135W TPK1 QCR8 HXT8 YJL215C IMA5 SFC1 CPA2 JEN1 GAP1 AQY2 YCT1 YLR036C GSY2 BOP2 YLR296W FBP1 IMD3 HXT2 SNO1 SNZ1 SPG4 ALD3 GTO3 ADH2 NCE103 LAP2 MEP2 YNL234W YNR071C HXT17 YNR073C ARG1 PEX11 ZPS1 HPF1 HXT11 CRC1 PNS1 GAC1 CPA1 PUT4 GDH1 FDH1 SRL4 PRM3 CSM4 YIG1 CIN2 ERR2 PDH1 MEP3 AQY1 OPT2 ARR2 	102	3195
+
+
+
+Deletions Consortium (Essentiality, Morphology)
+Category	p-value	In Category from Cluster	k	f
+Morphology - WT	1.62618e-06	GDH3 YAR029W YAR030C NTH2 ZTA1 FMP23 ADY2 PET18 YCR025C RDS1 AAD3 SFA1 YDL218W FMP45 HBT1 ALT2 YDR133C CRF1 CTA1 ATO3 UTR4 HPA3 YEL067C YAT2 ARG5,6 YER188W DAK2 ZIP2 VEL1 YGR066C CTT1 CLB6 MEP1 GTO1 TDA10 FMP43 DOG1 HXT4 SPS100 YHR162W RGI2 SDP1 QDR2 GUT2 SUC2 YIL165C YIL166C DAL1 DAL3 SIP4 YJL135W TPK1 QCR8 CPS1 HXT8 YJL215C IMA5 SFC1 CPA2 JEN1 GAP1 AQY2 YLL053C YCT1 YLR036C GSY2 BOP2 YLR296W FBP1 IMD3 CAT2 HXT2 YMR034C IMP2 SNO1 SNZ1 SPG4 YMR119W-A ALD3 GTO3 ADH2 LAP2 MLS1 MEP2 COS1 YNR071C HXT17 YNR073C ARG1 PEX11 HPF1 CIN5 ECM3 CRC1 PNS1 GAC1 YOR302W CPA1 PUT4 ALD4 GDH1 SRL4 GUP2 PRM3 CSM4 YIG1 YPL264C CIT3 PDH1 MEP3 AQY1 OPT2 YPR196W ARR2 ARR3 	115	3667
+
+
+
+Yeast Fitness Data
+Category	p-value	In Category from Cluster	k	f
+
+
+
+Published Complexes
+Category	p-value	In Category from Cluster	k	f
+
+
+
+

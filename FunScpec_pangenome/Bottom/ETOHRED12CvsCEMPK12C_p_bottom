@@ -1,0 +1,626 @@
+Input Cluster (n=162)
+YAL018C
+YAL069W
+YAR028W
+YBL016W	FUS3
+YBR018C	GAL7
+YBR019C	GAL10
+YBR040W	FIG1
+YBR073W	RDH54
+YBR083W	TEC1
+YBR157C	ICS2
+YBR158W	AMN1
+YBR183W	YPC1
+YBR213W	MET8
+YBR293W	VBA2
+YBR294W	SUL1
+YBR296C	PHO89
+YCL021W-A
+YCL025C	AGP1
+YCL027W	FUS1
+YCL037C	SRO9
+YCL055W	KAR4
+YCR018C	SRD1
+YCR089W	FIG2
+YCR098C	GIT1
+YCR099C
+YCR100C
+YCR101C
+YDL024C	DIA3
+YDL039C	PRM7
+YDL160C-A
+YDL227C	HO
+YDL243C	AAD4
+YDR042C
+YDR043C	NRG1
+YDR046C	BAP3
+YDR103W	STE5
+YDR317W	HIM1
+YDR345C	HXT3
+YDR402C	DIT2
+YDR403W	DIT1
+YDR446W	ECM11
+YDR461W	MFA1
+YDR508C	GNP1
+YEL040W	UTR2
+YEL073C
+YEL074W
+YER053C-A
+YER060W-A	FCY22
+YER073W	ALD5
+YER145C	FTR1
+YFL012W
+YFL026W	STE2
+YFL055W	AGP3
+YFL059W	SNZ3
+YFR023W	PES4
+YFR054C
+YGL032C	AGA2
+YGL157W	ARI1
+YGL193C
+YGR039W
+YGR044C	RME1
+YGR055W	MUP1
+YGR059W	SPR3
+YGR142W	BTN2
+YGR213C	RTA1
+YGR224W	AZR1
+YGR234W	YHB1
+YGR289C	MAL11
+YHL022C	SPO11
+YHL024W	RIM4
+YHR005C	GPA1
+YHR055C	CUP1-2
+YHR092C	HXT4
+YHR094C	HXT1
+YHR180W
+YHR185C	PFS1
+YHR211W	FLO5
+YHR215W	PHO12
+YHR216W	IMD2
+YIL015W	BAR1
+YIL037C	PRM2
+YIL053W	RHR2
+YIL064W	SEE1
+YIL089W
+YIL117C	PRM5
+YJL038C	LOH1
+YJL100W	LSB6
+YJL157C	FAR1
+YJL170C	ASG7
+YJL196C	ELO1
+YJL212C	OPT1
+YJL217W	REE1
+YJL218W
+YJR025C	BNA1
+YJR086W	STE18
+YJR097W	JJJ3
+YJR127C	RSF2
+YJR155W	AAD10
+YJR157W
+YKL043W	PHD1
+YKL051W	SFK1
+YKL068W-A
+YKL096W	CWP1
+YKL128C	PMU1
+YKL162C-A
+YKL209C	STE6
+YKL221W	MCH2
+YKR106W	GEX2
+YLL005C	SPO75
+YLL053C
+YLL061W	MMP1
+YLR030W
+YLR031W
+YLR040C
+YLR042C
+YLR054C	OSW2
+YLR205C	HMX1
+YLR265C	NEJ1
+YLR334C
+YLR364W	GRX8
+YLR452C	SST2
+YLR460C
+YLR467W	YRF1-5
+YML047C	PRM6
+YML125C	PGA3
+YMR009W	ADI1
+YMR070W	MOT3
+YMR101C	SRT1
+YMR232W	FUS2
+YMR316W	DIA1
+YNL141W	AAH1
+YNL145W	MFA2
+YNL146C-A
+YNL231C	PDR16
+YNL318C	HXT14
+YNL334C	SNO2
+YNR019W	ARE2
+YNR044W	AGA1
+YOL020W	TAT2
+YOL047C
+YOL048C	RRT8
+YOL109W	ZEO1
+YOL132W	GAS4
+YOL158C	ENB1
+YOL160W
+YOR108W	LEU9
+YOR177C	MPC54
+YOR212W	STE4
+YOR285W	RDL1
+YOR300W
+YOR317W	FAA1
+YOR346W	REV1
+YPL033C	SRL4
+YPL058C	PDR12
+YPL187W	MF(ALPHA)1
+YPL192C	PRM3
+YPL250C	ICY2
+YPL273W	SAM4
+YPL274W	SAM3
+YPL280W	HSP32
+YPR071W
+YPR122W	AXL1
+
+Genes Not Found:
+1191-AUGUSTUS_MASKED-CPI_4-15732
+1283-AUGUSTUS_MASKED-BDM_5-23139
+1334-AUGUSTUS_MASKED-CPG_1-7609
+1341-AUGUSTUS_MASKED-AQM_4-11146
+1403-AUGUSTUS_MASKED-AFL_5-6754
+1454-MAKER-BDK_5-8644
+1469-MAKER-API_4-23720
+1536-MAKER-BDM_5-23139
+1671-SNAP_MASKED-CQG_6-13109
+1749-SNAP_MASKED-AQM_4-11146
+397-AUGUSTUS_MASKED-9894-CPR_4
+455-MAKER-1744-ATP_4
+493-MAKER-368-YDJ
+512-MAKER-5547-BBE_6
+LCL%7CTRINITY_DN7803_C4_G2_I1%3A860-1819
+LCL%7CTRINITY_DN7965_C1_G3_I1%3A2-952
+R0030W
+R0040C
+RDN18-1
+RDN25-1
+RDN58-1
+YCL054W-A
+YMRCTY1-4_NUMOFGENES_31
+GO Molecular Function
+Category	p-value	In Category from Cluster	k	f
+amino acid transmembrane transporter activity [GO:0015171]	5.81765e-08	AGP1 BAP3 GNP1 AGP3 MUP1 MMP1 TAT2 SAM3 	8	24
+pheromone activity [GO:0005186]	5.69607e-05	MFA1 MFA2 MF(ALPHA)1 	3	4
+mating pheromone activity [GO:0000772]	0.000274622	MFA1 MFA2 MF(ALPHA)1 	3	6
+transporter activity [GO:0005215]	0.000332427	SUL1 GIT1 HXT3 MAL11 HXT4 HXT1 MCH2 YLL053C HXT14 	9	90
+signal transducer activity [GO:0004871]	0.000615881	STE2 GPA1 STE18 SST2 STE4 	5	29
+symporter activity [GO:0015293]	0.000741511	PHO89 MAL11 MCH2 	3	8
+substrate-specific transmembrane transporter activity [GO:0022891]	0.000846987	HXT3 MAL11 HXT4 HXT1 HXT14 	5	31
+cell adhesion molecule binding [GO:0050839]	0.00176592	AGA2 AGA1 	2	3
+pentose transmembrane transporter activity [GO:0015146]	0.00347487	HXT4 HXT1 	2	4
+L-proline transmembrane transporter activity [GO:0015193]	0.00347487	AGP1 GNP1 	2	4
+mannose transmembrane transporter activity [GO:0015578]	0.00530903	HXT3 HXT4 HXT1 	3	15
+fructose transmembrane transporter activity [GO:0005353]	0.00530903	HXT3 HXT4 HXT1 	3	15
+galactose transmembrane transporter activity [GO:0005354]	0.00841004	HXT1 HXT14 	2	6
+glucose transmembrane transporter activity [GO:0005355]	0.0090218	HXT3 HXT4 HXT1 	3	18
+aryl-alcohol dehydrogenase activity [GO:0018456]	0.0151999	AAD4 AAD10 	2	8
+oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen [GO:0016702]	0.0151999	BNA1 ADI1 	2	8
+acid phosphatase activity [GO:0003993]	0.0192306	DIA3 PHO12 	2	9
+high-affinity tryptophan transmembrane transporter activity [GO:0005300]	0.0245343	TAT2 	1	1
+sodium:inorganic phosphate symporter activity [GO:0015319]	0.0245343	PHO89 	1	1
+aromatic amino acid transmembrane transporter activity [GO:0015173]	0.0245343	TAT2 	1	1
+adenine deaminase activity [GO:0000034]	0.0245343	AAH1 	1	1
+acireductone dioxygenase (Ni2+-requiring) activity [GO:0010308]	0.0245343	ADI1 	1	1
+glycerophosphodiester transmembrane transporter activity [GO:0001406]	0.0245343	GIT1 	1	1
+sirohydrochlorin ferrochelatase activity [GO:0051266]	0.0245343	MET8 	1	1
+dioxygenase activity [GO:0051213]	0.0245343	ADI1 	1	1
+precorrin-2 dehydrogenase activity [GO:0043115]	0.0245343	MET8 	1	1
+ferric-enterobactin transmembrane transporter activity [GO:0015620]	0.0245343	ENB1 	1	1
+phytoceramidase activity [GO:0070774]	0.0245343	YPC1 	1	1
+aldose 1-epimerase activity [GO:0004034]	0.0245343	GAL10 	1	1
+UDP-glucose 4-epimerase activity [GO:0003978]	0.0245343	GAL10 	1	1
+UDP-glucose:hexose-1-phosphate uridylyltransferase activity [GO:0008108]	0.0245343	GAL7 	1	1
+heme oxygenase (decyclizing) activity [GO:0004392]	0.0245343	HMX1 	1	1
+aldehyde dehydrogenase (NADP+) activity [GO:0033721]	0.0245343	ALD5 	1	1
+deoxycytidyl transferase activity [GO:0017125]	0.0245343	REV1 	1	1
+S-methylmethionine transmembrane transporter activity [GO:0000100]	0.0245343	MMP1 	1	1
+mating-type alpha-factor pheromone receptor activity [GO:0004934]	0.0245343	STE2 	1	1
+proton-dependent oligopeptide secondary active transmembrane transporter activity [GO:0005427]	0.0245343	OPT1 	1	1
+peptide-transporting ATPase activity [GO:0015440]	0.0245343	STE6 	1	1
+L-methionine secondary active transmembrane transporter activity [GO:0000102]	0.0245343	MUP1 	1	1
+azole transporter activity [GO:0045118]	0.0245343	AZR1 	1	1
+3-hydroxyanthranilate 3,4-dioxygenase activity [GO:0000334]	0.0245343	BNA1 	1	1
+nitric oxide reductase activity [GO:0016966]	0.0245343	YHB1 	1	1
+nitric oxide dioxygenase activity [GO:0008941]	0.0245343	YHB1 	1	1
+maltose:hydrogen symporter activity [GO:0005364]	0.0245343	MAL11 	1	1
+trehalose transmembrane transporter activity [GO:0015574]	0.0245343	MAL11 	1	1
+endodeoxyribonuclease activity, producing 3'-phosphomonoesters [GO:0016889]	0.0245343	SPO11 	1	1
+oxidoreductase activity [GO:0016491]	0.0347371	MET8 AAD4 DIT2 ALD5 ARI1 YHB1 IMD2 BNA1 AAD10 YLR460C PGA3 ADI1 	12	272
+transcription repressor activity [GO:0016564]	0.0448734	NRG1 MOT3 	2	14
+cadmium ion binding [GO:0046870]	0.0484703	CUP1-2 	1	2
+oxygen binding [GO:0019825]	0.0484703	YHB1 	1	2
+adenosine deaminase activity [GO:0004000]	0.0484703	AAH1 	1	2
+mating-type factor pheromone receptor activity [GO:0004932]	0.0484703	STE2 	1	2
+glycerol-1-phosphatase activity [GO:0000121]	0.0484703	RHR2 	1	2
+DNA end binding [GO:0045027]	0.0484703	NEJ1 	1	2
+S-adenosylmethionine transmembrane transporter activity [GO:0000095]	0.0484703	SAM3 	1	2
+2-isopropylmalate synthase activity [GO:0003852]	0.0484703	LEU9 	1	2
+cholesterol O-acyltransferase activity [GO:0034736]	0.0484703	ARE2 	1	2
+ergosterol O-acyltransferase activity [GO:0034737]	0.0484703	ARE2 	1	2
+alpha-glucoside:hydrogen symporter activity [GO:0005352]	0.0484703	MAL11 	1	2
+sulfate transmembrane transporter activity [GO:0015116]	0.0484703	SUL1 	1	2
+ferrochelatase activity [GO:0004325]	0.0484703	MET8 	1	2
+dehydrodolichyl diphosphate synthase activity [GO:0045547]	0.0484703	SRT1 	1	2
+
+
+
+GO Biological Process
+Category	p-value	In Category from Cluster	k	f
+pheromone-dependent signal transduction involved in conjugation with cellular fusion [GO:0000750]	5.37208e-10	FUS3 STE5 MFA1 STE2 GPA1 FAR1 STE18 MFA2 STE4 MF(ALPHA)1 	10	28
+response to pheromone [GO:0019236]	4.72784e-09	FIG2 STE5 STE2 GPA1 BAR1 STE18 STE6 SST2 AGA1 STE4 	10	34
+amino acid transport [GO:0006865]	4.47937e-08	VBA2 AGP1 BAP3 GNP1 AGP3 MUP1 BTN2 MMP1 TAT2 SAM3 	10	42
+amino acid transmembrane transport [GO:0003333]	5.81765e-08	AGP1 BAP3 GNP1 AGP3 MUP1 MMP1 TAT2 SAM3 	8	24
+transmembrane transport [GO:0055085]	6.89424e-08	VBA2 SUL1 PHO89 AGP1 GIT1 BAP3 HXT3 GNP1 FCY22 FTR1 AGP3 MUP1 AZR1 MAL11 HXT4 HXT1 OPT1 STE6 MCH2 GEX2 MMP1 HXT14 TAT2 ENB1 SAM3 	25	303
+cytogamy [GO:0000755]	4.41135e-07	FIG1 FUS1 FIG2 STE2 FUS2 	5	8
+ascospore wall assembly [GO:0030476]	1.3034e-05	DIT2 DIT1 SPR3 PFS1 SPO75 OSW2 GAS4 MPC54 	8	46
+heterotrimeric G-protein complex cycle [GO:0031684]	1.45022e-05	GPA1 STE18 STE4 	3	3
+karyogamy involved in conjugation with cellular fusion [GO:0000742]	2.93284e-05	KAR4 GPA1 PRM2 FUS2 PRM3 	5	16
+invasive growth in response to glucose limitation [GO:0001403]	0.000148412	FUS3 TEC1 DIA3 NRG1 STE5 DIA1 STE4 	7	48
+sporulation resulting in formation of a cellular spore [GO:0030435]	0.000198282	DIT2 DIT1 SPR3 SPO11 RIM4 PFS1 LOH1 SPO75 OSW2 MPC54 	10	103
+cell adhesion [GO:0007155]	0.000471934	FIG2 AGA2 AGA1 	3	7
+G-protein coupled receptor protein signaling pathway [GO:0007186]	0.000471934	STE2 GPA1 STE18 	3	7
+negative regulation of MAPKKK cascade [GO:0043409]	0.000598307	FUS3 STE5 	2	2
+carbohydrate transport [GO:0008643]	0.000846987	HXT3 MAL11 HXT4 HXT1 HXT14 	5	31
+galactose catabolic process via UDP-galactose [GO:0033499]	0.00176592	GAL7 GAL10 	2	3
+adaptation of signaling pathway by response to pheromone involved in conjugation with cellular fusion [GO:0000754]	0.00270964	GPA1 BAR1 SST2 	3	12
+cell morphogenesis involved in conjugation with cellular fusion [GO:0000753]	0.00345953	FIG1 FIG2 SPR3 	3	13
+agglutination involved in conjugation with cellular fusion [GO:0000752]	0.00347487	AGA2 AGA1 	2	4
+regulation of termination of mating projection growth [GO:0031385]	0.00347487	FUS1 FUS2 	2	4
+hexose transport [GO:0008645]	0.00432438	HXT3 HXT4 HXT14 	3	14
+conjugation [GO:0000746]	0.00569823	FUS3 FIG2 	2	5
+inositol lipid-mediated signaling [GO:0048017]	0.00841004	GPA1 SFK1 	2	6
+pyridoxine metabolic process [GO:0008614]	0.00841004	SNZ3 SNO2 	2	6
+regulation of transposition, RNA-mediated [GO:0010525]	0.00841004	STE5 STE4 	2	6
+galactose metabolic process [GO:0006012]	0.0151999	GAL7 GAL10 	2	8
+oxidation-reduction process [GO:0055114]	0.0158841	MET8 AAD4 DIT2 ALD5 ARI1 YHB1 IMD2 BNA1 AAD10 HMX1 YLR460C PGA3 ADI1 	13	272
+pseudohyphal growth [GO:0007124]	0.0199083	TEC1 DIA3 NRG1 PHD1 DIA1 	5	64
+pyridoxine biosynthetic process [GO:0008615]	0.0236552	SNZ3 SNO2 	2	10
+transport [GO:0006810]	0.0238586	VBA2 SUL1 PHO89 AGP1 GIT1 BAP3 HXT3 GNP1 FCY22 FTR1 AGP3 MUP1 AZR1 MAL11 HXT4 HXT1 SEE1 OPT1 STE6 MCH2 YLL053C MMP1 GRX8 PDR16 HXT14 TAT2 ENB1 PDR12 SAM3 	29	815
+deoxyribonucleoside triphosphate metabolic process [GO:0009200]	0.0245343	SRL4 	1	1
+cortical protein anchoring [GO:0032065]	0.0245343	FUS1 	1	1
+glycerophosphodiester transport [GO:0001407]	0.0245343	GIT1 	1	1
+maltose transport [GO:0015768]	0.0245343	MAL11 	1	1
+organic acid transport [GO:0015849]	0.0245343	PDR12 	1	1
+nuclear membrane fusion involved in karyogamy [GO:0048288]	0.0245343	PRM3 	1	1
+ferric-enterobactin transport [GO:0015685]	0.0245343	ENB1 	1	1
+aromatic amino acid transport [GO:0015801]	0.0245343	TAT2 	1	1
+hypoxanthine salvage [GO:0043103]	0.0245343	AAH1 	1	1
+homocysteine metabolic process [GO:0050667]	0.0245343	SAM4 	1	1
+gene conversion at mating-type locus, DNA double-strand break formation [GO:0000728]	0.0245343	HO 	1	1
+mitotic cell cycle checkpoint [GO:0007093]	0.0245343	AMN1 	1	1
+purine-containing compound salvage [GO:0043101]	0.0245343	AAH1 	1	1
+adenine catabolic process [GO:0006146]	0.0245343	AAH1 	1	1
+heme catabolic process [GO:0042167]	0.0245343	HMX1 	1	1
+cell projection assembly [GO:0030031]	0.0245343	STE2 	1	1
+S-adenosylhomocysteine metabolic process [GO:0046498]	0.0245343	SAM4 	1	1
+L-methionine biosynthetic process from S-adenosylmethionine [GO:0019284]	0.0245343	SAM4 	1	1
+heme oxidation [GO:0006788]	0.0245343	HMX1 	1	1
+S-methylmethionine transport [GO:0015806]	0.0245343	MMP1 	1	1
+sulfur amino acid transport [GO:0000101]	0.0245343	MUP1 	1	1
+azole transport [GO:0045117]	0.0245343	AZR1 	1	1
+peptide pheromone export [GO:0000770]	0.0245343	STE6 	1	1
+trehalose transport [GO:0015771]	0.0245343	MAL11 	1	1
+fatty acid elongation, unsaturated fatty acid [GO:0019368]	0.0245343	ELO1 	1	1
+cellular aldehyde metabolic process [GO:0006081]	0.028452	AAD4 AAD10 	2	11
+signal transduction [GO:0007165]	0.0329535	STE2 GPA1 STE18 SST2 STE4 	5	73
+methionine biosynthetic process [GO:0009086]	0.0394395	MET8 ADI1 SAM4 	3	31
+detoxification of cadmium ion [GO:0071585]	0.0484703	CUP1-2 	1	2
+maintenance of protein location in nucleus [GO:0051457]	0.0484703	FAR1 	1	2
+detoxification of copper ion [GO:0010273]	0.0484703	CUP1-2 	1	2
+regulation of MAPK export from nucleus [GO:0071701]	0.0484703	GPA1 	1	2
+oxygen transport [GO:0015671]	0.0484703	YHB1 	1	2
+sexual reproduction [GO:0019953]	0.0484703	MF(ALPHA)1 	1	2
+mating [GO:0007618]	0.0484703	MF(ALPHA)1 	1	2
+long-chain fatty-acyl-CoA metabolic process [GO:0035336]	0.0484703	FAA1 	1	2
+S-adenosylmethionine transport [GO:0015805]	0.0484703	SAM3 	1	2
+iron assimilation by reduction and transport [GO:0033215]	0.0484703	FTR1 	1	2
+cell wall chitin metabolic process [GO:0006037]	0.0484703	UTR2 	1	2
+positive regulation of protein phosphorylation [GO:0001934]	0.0484703	STE5 	1	2
+ergosterol metabolic process [GO:0008204]	0.0484703	ARE2 	1	2
+mannose transport [GO:0015761]	0.0484703	HXT1 	1	2
+protein splicing [GO:0030908]	0.0484703	HO 	1	2
+intein-mediated protein splicing [GO:0016539]	0.0484703	HO 	1	2
+glutathione transmembrane transport [GO:0034775]	0.0484703	GEX2 	1	2
+siroheme biosynthetic process [GO:0019354]	0.0484703	MET8 	1	2
+ceramide catabolic process [GO:0046514]	0.0484703	YPC1 	1	2
+ceramide metabolic process [GO:0006672]	0.0484703	YPC1 	1	2
+DNA geometric change [GO:0032392]	0.0484703	RDH54 	1	2
+tryptophan transport [GO:0015827]	0.0484703	TAT2 	1	2
+
+
+
+GO Cellular Component
+Category	p-value	In Category from Cluster	k	f
+plasma membrane [GO:0005886]	6.11733e-14	SUL1 PHO89 AGP1 GIT1 BAP3 STE5 HXT3 MFA1 GNP1 FTR1 AGP3 AZR1 MAL11 GPA1 HXT4 HXT1 LSB6 ASG7 OPT1 STE18 SFK1 STE6 GEX2 MMP1 SST2 PGA3 ADI1 MFA2 HXT14 TAT2 ZEO1 GAS4 ENB1 STE4 PDR12 SAM3 	36	350
+membrane [GO:0016020]	2.62974e-08	YAL018C YAR028W FIG1 YPC1 VBA2 SUL1 PHO89 YCL021W-A AGP1 FUS1 FIG2 GIT1 BAP3 HXT3 MFA1 GNP1 UTR2 YER053C-A FCY22 FTR1 STE2 AGP3 MUP1 SPR3 RTA1 AZR1 MAL11 GPA1 HXT4 HXT1 FLO5 PRM2 YIL089W PRM5 LOH1 LSB6 FAR1 ASG7 ELO1 OPT1 STE18 SFK1 CWP1 STE6 MCH2 GEX2 SPO75 YLL053C MMP1 YLR040C YLR042C OSW2 HMX1 NEJ1 PRM6 PGA3 ADI1 MFA2 PDR16 HXT14 ARE2 AGA1 TAT2 YOL047C RRT8 ZEO1 GAS4 ENB1 MPC54 PDR12 PRM3 SAM3 YPR071W 	73	1671
+integral to membrane [GO:0016021]	4.10344e-07	YAL018C YAR028W FIG1 YPC1 VBA2 SUL1 PHO89 YCL021W-A AGP1 FUS1 GIT1 YCR099C YCR100C YCR101C PRM7 BAP3 HXT3 GNP1 YER053C-A FCY22 FTR1 STE2 AGP3 MUP1 RTA1 AZR1 MAL11 HXT4 HXT1 PRM2 YIL089W PRM5 LOH1 ASG7 ELO1 OPT1 SFK1 STE6 MCH2 GEX2 SPO75 YLL053C MMP1 OSW2 HMX1 NEJ1 PRM6 PGA3 HXT14 ARE2 TAT2 YOL047C RRT8 GAS4 ENB1 PDR12 PRM3 SAM3 YPR071W 	59	1303
+fungal-type cell wall [GO:0009277]	6.13853e-06	FIG1 FIG2 DIA3 UTR2 AGA2 FLO5 CWP1 YLR040C YLR042C AGA1 GAS4 	11	85
+heterotrimeric G-protein complex [GO:0005834]	1.45022e-05	GPA1 STE18 STE4 	3	3
+extracellular region [GO:0005576]	1.81801e-05	FIG2 MFA1 UTR2 FLO5 BAR1 CWP1 YLR040C YLR042C MFA2 AGA1 MF(ALPHA)1 	11	95
+anchored to membrane [GO:0031225]	0.000107628	FIG2 UTR2 FLO5 CWP1 YLR040C YLR042C AGA1 GAS4 	8	61
+cell wall [GO:0005618]	0.00129618	FIG2 UTR2 FLO5 CWP1 YLR040C YLR042C AGA1 	7	68
+integral to plasma membrane [GO:0005887]	0.00252823	FUS1 STE2 MUP1 OPT1 	4	24
+nuclear outer membrane [GO:0005640]	0.00347487	HMX1 PRM3 	2	4
+prospore membrane [GO:0005628]	0.0039438	SPR3 CWP1 OSW2 MPC54 	4	27
+mating projection tip [GO:0043332]	0.0040984	FUS3 FIG1 FUS1 STE5 FAR1 STE6 FUS2 AXL1 	8	105
+cellular_component [GO:0005575]	0.00646588	YAR028W ICS2 MET8 YCL021W-A YDL160C-A AAD4 YDR042C HIM1 DIT2 DIT1 YEL073C YFL012W SNZ3 PES4 YGL193C PFS1 LOH1 YJL218W AAD10 YKL068W-A YLR030W YLR031W YLR460C YNL146C-A SNO2 SRL4 ICY2 HSP32 	28	704
+lipid particle [GO:0005811]	0.014728	SRT1 PDR16 RRT8 FAA1 	4	39
+mating projection [GO:0005937]	0.0151999	FIG2 STE4 	2	8
+membrane fraction [GO:0005624]	0.0227665	YCR101C HXT3 UTR2 STE2 HXT4 HXT1 	6	90
+cellular bud neck septin ring [GO:0000144]	0.0236552	UTR2 SPR3 	2	10
+cellular birth scar [GO:0071597]	0.0245343	CWP1 	1	1
+extrinsic to nuclear outer membrane [GO:0031316]	0.0245343	PRM3 	1	1
+high affinity iron permease complex [GO:0033573]	0.0484703	FTR1 	1	2
+
+
+
+MIPS Functional Classification
+Category	p-value	In Category from Cluster	k	f
+pheromone response, mating-type determination, sex-specific proteins [34.11.03.07]	2.89502e-12	FUS3 FIG1 RDH54 FUS1 KAR4 FIG2 HO STE5 MFA1 STE2 AGA2 SPR3 GPA1 BAR1 FAR1 ASG7 OPT1 STE18 STE6 SST2 FUS2 MFA2 AGA1 STE4 MF(ALPHA)1 	25	189
+mating (fertilization) [41.01.01]	5.08926e-12	FIG1 RDH54 FUS1 KAR4 FIG2 PRM7 HO AGA2 SPR3 PRM2 PRM5 ASG7 PRM6 AGA1 PRM3 AXL1 	16	69
+transmembrane signal transduction [30.05]	8.28151e-09	FUS3 STE5 MFA1 GPA1 FAR1 STE18 MFA2 STE4 MF(ALPHA)1 	9	27
+amino acid/amino acid derivatives transport [20.01.07]	1.07192e-06	VBA2 AGP1 BAP3 GNP1 AGP3 MUP1 MMP1 TAT2 SAM3 	9	45
+G-protein mediated signal transduction [30.01.05.05]	0.000100723	GPA1 STE18 SST2 STE4 	4	11
+METABOLISM [01]	0.000598307	DIT2 DIT1 	2	2
+sugar transport [20.01.03.01]	0.000846987	HXT3 MAL11 HXT4 HXT1 HXT14 	5	31
+cellular import [20.09.18]	0.0015527	SUL1 BAP3 HXT3 MUP1 HXT4 HXT1 HXT14 TAT2 	8	90
+amino acid metabolism [01.01]	0.00245088	MET8 VBA2 SUL1 MUP1 BNA1 	5	39
+drug/toxin transport [20.01.27]	0.014728	AZR1 GEX2 ENB1 PDR12 	4	39
+fermentation [02.16]	0.0201034	AAD4 ALD5 AAD10 	3	24
+metabolism of vitamins, cofactors, and prosthetic groups [01.07]	0.0204972	DIA3 ARI1 PHO12 HMX1 	4	43
+development of asco- basidio- or zygospore [43.01.03.09]	0.020558	DIT2 DIT1 SPR3 RIM4 PFS1 SPO75 OSW2 ARE2 MPC54 	9	166
+sodium driven symporter [20.03.02.02.02]	0.0245343	PHO89 	1	1
+interpretation of external signals that control cell growth [40.01.05.01]	0.0245343	RSF2 	1	1
+regulation of respiration [02.13.05]	0.0245343	RSF2 	1	1
+peptide transport [20.01.09]	0.028452	OPT1 STE6 	2	11
+ABC transporters [20.03.25]	0.0303088	STE6 ENB1 PDR12 	3	28
+transcription repression [11.02.03.04.03]	0.0303088	NRG1 RME1 MOT3 	3	28
+siderophore-iron transport [20.01.01.01.01.01]	0.0336005	FTR1 ENB1 	2	12
+metabolism of phenylalanine [01.01.09.04]	0.0390807	AAD4 AAD10 	2	13
+DNA degradation [01.03.16.03]	0.0390807	SPO11 SRL4 	2	13
+metabolism of tyrosine [01.01.09.05]	0.0448734	AAD4 AAD10 	2	14
+kinase inhibitior [18.02.01.02.05]	0.0448734	AMN1 FAR1 	2	14
+regulator of G-protein signalling [18.02.05]	0.0448734	FUS3 SST2 	2	14
+heme binding [16.21.01]	0.0484703	HMX1 	1	2
+C-compound and carbohydrate transport [20.01.03]	0.0498038	MCH2 PDR12 SAM3 	3	34
+
+
+
+MIPS Phenotypes
+Category	p-value	In Category from Cluster	k	f
+Mating efficiency [32.05]	0.000846987	FIG1 FIG2 STE5 STE2 AXL1 	5	31
+Inappropriate sporulation [32.15]	0.00841004	KAR4 RME1 	2	6
+Gamma-hydroxyaspartate [92.10]	0.0245343	AGP1 	1	1
+other aminoacid analogs and other drugs [92.99]	0.0357389	GNP1 MUP1 RTA1 TAT2 	4	51
+other mating and sporulation defects [32.99]	0.0427725	GPA1 FAR1 SST2 STE4 	4	54
+Galactose fermentation (Gal) [42.25.15]	0.0448734	HXT3 ZEO1 	2	14
+
+
+
+MIPS Subcellular Localization
+Category	p-value	In Category from Cluster	k	f
+plasma membrane [720]	4.90381e-10	SUL1 AGP1 FUS1 GIT1 BAP3 HXT3 FTR1 STE2 MUP1 AZR1 GPA1 HXT4 HXT1 STE18 STE6 SST2 HXT14 AGA1 TAT2 ZEO1 STE4 SAM3 	22	184
+integral membrane / endomembranes (if not assigned to a specific membrane) [722]	1.30983e-09	YAL018C FIG1 YPC1 VBA2 PHO89 GNP1 FCY22 FTR1 AGP3 MUP1 RTA1 MAL11 ASG7 SFK1 MCH2 GEX2 MMP1 ARE2 ENB1 PDR12 YPR071W 	21	176
+extracellular [701]	4.53071e-06	FIG1 FIG2 MFA1 AGA2 PHO12 BAR1 CWP1 MFA2 MF(ALPHA)1 	9	53
+cell wall [710]	0.00378752	FIG2 UTR2 AGA2 CWP1 OSW2 	5	43
+vacuole [770]	0.00876188	FUS1 BAP3 HXT3 STE2 AGA2 MUP1 PHO12 BAR1 PRM2 PRM5 STE6 TAT2 	12	224
+ER [735]	0.0386118	PHO89 AGP1 GNP1 UTR2 YER053C-A AGA2 ELO1 OPT1 RSF2 CWP1 MMP1 YLR042C PGA3 ARE2 AGA1 RDL1 FAA1 PRM3 SAM3 YPR071W 	20	537
+cell periphery [715]	0.0392555	GIT1 HXT3 GNP1 FTR1 MUP1 GPA1 SFK1 TAT2 PDR12 AXL1 	10	216
+
+
+
+MIPS Protein Complexes
+Category	p-value	In Category from Cluster	k	f
+Pheromone response pathway [470.30.10]	1.45022e-05	GPA1 STE18 STE4 	3	3
+STE5-MAPK complex [470.20]	0.00569823	FUS3 STE5 	2	5
+Complex Number 61, Aah1 (1) [550.3.61]	0.0245343	AAH1 	1	1
+Complex Number 277 [550.2.277]	0.0484703	ALD5 	1	2
+Complex Number 10 [550.2.10]	0.0484703	ARE2 	1	2
+
+
+
+MIPS Protein Classes
+Category	p-value	In Category from Cluster	k	f
+Major facilitator superfamily proteins (MFS) [121]	1.2781e-10	VBA2 SUL1 PHO89 AGP1 GIT1 HXT3 GNP1 FCY22 AGP3 MUP1 AZR1 MAL11 HXT4 HXT1 MCH2 GEX2 MMP1 HXT14 TAT2 ENB1 	20	140
+Cys2His2 zinc-finger [201.21.21]	0.0174638	NRG1 RME1 RSF2 MOT3 	4	41
+regulators of G-protein signaling (RGS proteins) [61.11.41]	0.0245343	SST2 	1	1
+gamma subunits [61.11.31]	0.0245343	STE18 	1	1
+TEA domain [201.31.51]	0.0245343	TEC1 	1	1
+alpha subunits [61.11.11]	0.0484703	GPA1 	1	2
+
+
+
+SMART Domains
+Category	p-value	In Category from Cluster	k	f
+<A href='http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=TEA&BLAST=DUMMY'>TEA</A>	0.0245343	TEC1 	1	1
+<A href='http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=GGL&BLAST=DUMMY'>GGL</A>	0.0245343	STE18 	1	1
+<A href='http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=ZnF_C2H2&BLAST=DUMMY'>ZnF_C2H2</A>	0.0357389	NRG1 RME1 RSF2 MOT3 	4	51
+<A href='http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=G_alpha&BLAST=DUMMY'>G_alpha</A>	0.0484703	GPA1 	1	2
+<A href='http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=LeuA_dimer&BLAST=DUMMY'>LeuA_dimer</A>	0.0484703	LEU9 	1	2
+<A href='http://smart.embl-heidelberg.de/smart/do_annotation.pl?DOMAIN=HintN&BLAST=DUMMY'>HintN</A>	0.0484703	HO 	1	2
+
+
+
+PFam-A Domains
+Category	p-value	In Category from Cluster	k	f
+<A href='http://pfam.sanger.ac.uk/family?id=AA_permease'>AA_permease</A>	5.81765e-08	AGP1 BAP3 GNP1 AGP3 MUP1 MMP1 TAT2 SAM3 	8	24
+<A href='http://pfam.sanger.ac.uk/family?id=MFS_1'>MFS_1</A>	1.99382e-06	VBA2 GIT1 HXT3 AZR1 MAL11 HXT4 HXT1 MCH2 GEX2 HXT14 ENB1 	11	76
+<A href='http://pfam.sanger.ac.uk/family?id=Sugar_tr'>Sugar_tr</A>	0.000286292	GIT1 HXT3 MAL11 HXT4 HXT1 HXT14 	6	38
+<A href='http://pfam.sanger.ac.uk/family?id=FAD_binding_6'>FAD_binding_6</A>	0.00569823	YHB1 PGA3 	2	5
+<A href='http://pfam.sanger.ac.uk/family?id=Acid_phosphat_A'>Acid_phosphat_A</A>	0.00841004	DIA3 PHO12 	2	6
+<A href='http://pfam.sanger.ac.uk/family?id=3Beta_HSD'>3Beta_HSD</A>	0.0115853	GAL10 ARI1 	2	7
+<A href='http://pfam.sanger.ac.uk/family?id=zf-C2H2'>zf-C2H2</A>	0.0134688	NRG1 RME1 RSF2 MOT3 	4	38
+<A href='http://pfam.sanger.ac.uk/family?id=NAD_binding_4'>NAD_binding_4</A>	0.0151999	GAL10 ARI1 	2	8
+<A href='http://pfam.sanger.ac.uk/family?id=NAD_binding_1'>NAD_binding_1</A>	0.0151999	YHB1 PGA3 	2	8
+<A href='http://pfam.sanger.ac.uk/family?id=Epimerase'>Epimerase</A>	0.0192306	GAL10 ARI1 	2	9
+<A href='http://pfam.sanger.ac.uk/family?id=G-gamma'>G-gamma</A>	0.0245343	STE18 	1	1
+<A href='http://pfam.sanger.ac.uk/family?id=Heme_oxygenase'>Heme_oxygenase</A>	0.0245343	HMX1 	1	1
+<A href='http://pfam.sanger.ac.uk/family?id=TEA'>TEA</A>	0.0245343	TEC1 	1	1
+<A href='http://pfam.sanger.ac.uk/family?id=STE2'>STE2</A>	0.0245343	STE2 	1	1
+<A href='http://pfam.sanger.ac.uk/family?id=GalP_UDP_tr_C'>GalP_UDP_tr_C</A>	0.0245343	GAL7 	1	1
+<A href='http://pfam.sanger.ac.uk/family?id=3-HAO'>3-HAO</A>	0.0245343	BNA1 	1	1
+<A href='http://pfam.sanger.ac.uk/family?id=DUF1349'>DUF1349</A>	0.0245343	REE1 	1	1
+<A href='http://pfam.sanger.ac.uk/family?id=PHO4'>PHO4</A>	0.0245343	PHO89 	1	1
+<A href='http://pfam.sanger.ac.uk/family?id=TP6A_N'>TP6A_N</A>	0.0245343	SPO11 	1	1
+<A href='http://pfam.sanger.ac.uk/family?id=GalP_UDP_transf'>GalP_UDP_transf</A>	0.0245343	GAL7 	1	1
+<A href='http://pfam.sanger.ac.uk/family?id=DUF2008'>DUF2008</A>	0.0245343	YDL160C-A 	1	1
+<A href='http://pfam.sanger.ac.uk/family?id=ARD'>ARD</A>	0.0245343	ADI1 	1	1
+<A href='http://pfam.sanger.ac.uk/family?id=HIM1'>HIM1</A>	0.0245343	HIM1 	1	1
+<A href='http://pfam.sanger.ac.uk/family?id=DIT1_PvcA'>DIT1_PvcA</A>	0.0245343	DIT1 	1	1
+<A href='http://pfam.sanger.ac.uk/family?id=Cupin_2'>Cupin_2</A>	0.0245343	ADI1 	1	1
+<A href='http://pfam.sanger.ac.uk/family?id=Aldo_ket_red'>Aldo_ket_red</A>	0.0448734	AAD4 AAD10 	2	14
+<A href='http://pfam.sanger.ac.uk/family?id=G-alpha'>G-alpha</A>	0.0484703	GPA1 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=IMS'>IMS</A>	0.0484703	REV1 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=MF_alpha_N'>MF_alpha_N</A>	0.0484703	MF(ALPHA)1 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=MF_alpha'>MF_alpha</A>	0.0484703	MF(ALPHA)1 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=XLF'>XLF</A>	0.0484703	NEJ1 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=Globin'>Globin</A>	0.0484703	YHB1 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=Hom_end'>Hom_end</A>	0.0484703	HO 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=Frag1'>Frag1</A>	0.0484703	SFK1 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=MT-A70'>MT-A70</A>	0.0484703	KAR4 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=FTR1'>FTR1</A>	0.0484703	FTR1 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=aPHC'>aPHC</A>	0.0484703	YPC1 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=S-methyl_trans'>S-methyl_trans</A>	0.0484703	SAM4 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=Polysacc_synt_2'>Polysacc_synt_2</A>	0.0484703	GAL10 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=RGS'>RGS</A>	0.0484703	SST2 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=RmlD_sub_bind'>RmlD_sub_bind</A>	0.0484703	GAL10 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=Prenyltransf'>Prenyltransf</A>	0.0484703	SRT1 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=LeuA_dimer'>LeuA_dimer</A>	0.0484703	LEU9 	1	2
+<A href='http://pfam.sanger.ac.uk/family?id=zf-CSL'>zf-CSL</A>	0.0484703	JJJ3 	1	2
+
+
+
+Yeast Two Hybrid - Uetz
+Category	p-value	In Category from Cluster	k	f
+YCR086W (CSM1)	0.0245343	TAT2 	1	1
+YDL212W (SHR3)	0.0245343	GNP1 	1	1
+YDR108W (GSG1)	0.0245343	YHB1 	1	1
+YPL192C (PRM3)	0.0245343	PRM3 	1	1
+YHR014W (SPO13)	0.0245343	PFS1 	1	1
+YIL007C	0.0245343	PFS1 	1	1
+YJR086W (STE18)	0.0245343	STE4 	1	1
+YPL204W (HRR25)	0.0245343	PFS1 	1	1
+YDR132C	0.0484703	YJL218W 	1	2
+YCL040W (GLK1)	0.0484703	FIG1 	1	2
+
+
+
+Yeast Two Hybrid - Ito (core)
+Category	p-value	In Category from Cluster	k	f
+YJL218W	0.0245343	YJL218W 	1	1
+YJR086W (STE18)	0.0245343	STE4 	1	1
+YPR071W	0.0245343	YPR071W 	1	1
+YMR124W	0.0245343	YLR031W 	1	1
+YNL333W (SNZ2)	0.0245343	SNZ3 	1	1
+YPL201C	0.0245343	RHR2 	1	1
+YHR005C (GPA1)	0.0245343	STE4 	1	1
+YNL334C (SNO2)	0.0484703	SNZ3 	1	2
+YMR096W (SNZ1)	0.0484703	SNZ3 	1	2
+
+
+
+Yeast Two Hybrid - Ito (full)
+Category	p-value	In Category from Cluster	k	f
+YBR064W	0.0245343	FAA1 	1	1
+YBR069C (TAT1)	0.0245343	ZEO1 	1	1
+YPR175W (DPB2)	0.0245343	SNO2 	1	1
+YPL040C (ISM1)	0.0245343	LSB6 	1	1
+YCL038C (AUT4)	0.0245343	ADI1 	1	1
+YOR381W (FRE3)	0.0245343	ARE2 	1	1
+YOR360C (PDE2)	0.0245343	FLO5 	1	1
+YDR189W (SLY1)	0.0245343	DIA1 	1	1
+YOR265W (RBL2)	0.0245343	MPC54 	1	1
+YER153C (PET122)	0.0245343	ASG7 	1	1
+YFL059W (SNZ3)	0.0245343	SNZ3 	1	1
+YGL014W (PUF4)	0.0245343	PDR16 	1	1
+YGL057C	0.0245343	FUS3 	1	1
+YGR023W (MTL1)	0.0245343	YLR460C 	1	1
+YOR221C (MCT1)	0.0245343	MCH2 	1	1
+YNL175C (NOP13)	0.0245343	YHR180W 	1	1
+YGR292W (MAL12)	0.0245343	OSW2 	1	1
+YML038C (YMD8)	0.0245343	OSW2 	1	1
+YHR014W (SPO13)	0.0245343	PFS1 	1	1
+YLR384C (IKI3)	0.0245343	MFA1 	1	1
+YJL047C (RTT101)	0.0245343	SNZ3 	1	1
+YJL063C (MRPL8)	0.0245343	RIM4 	1	1
+YKL011C (CCE1)	0.0245343	AXL1 	1	1
+YBL059W	0.0245343	YCR099C 	1	1
+YLR373C (VID22)	0.033213	HIM1 GNP1 FAA1 	3	29
+YJR086W (STE18)	0.0484703	STE4 	1	2
+YLR088W (GAA1)	0.0484703	PHO12 	1	2
+YLR159W	0.0484703	HSP32 	1	2
+YLR257W	0.0484703	OSW2 	1	2
+YJL218W	0.0484703	YJL218W 	1	2
+YJL184W	0.0484703	GIT1 	1	2
+YIL007C	0.0484703	PFS1 	1	2
+YMR096W (SNZ1)	0.0484703	SNZ3 	1	2
+YMR124W	0.0484703	YLR031W 	1	2
+YHR005C (GPA1)	0.0484703	STE4 	1	2
+YOR076C (SKI7)	0.0484703	AGP3 	1	2
+YGR142W (BTN2)	0.0484703	AAH1 	1	2
+YGR141W (VPS62)	0.0484703	STE2 	1	2
+YEL016C	0.0484703	FAR1 	1	2
+YDL114W	0.0484703	YLR040C 	1	2
+YDL059C (RAD59)	0.0484703	SNZ3 	1	2
+YPL201C	0.0484703	RHR2 	1	2
+YPL222W	0.0484703	ADI1 	1	2
+YPR071W	0.0484703	YPR071W 	1	2
+YBR239C	0.0484703	FAA1 	1	2
+YBR093C (PHO5)	0.0484703	GEX2 	1	2
+
+
+
+Synthetic Genetic Array Analysis
+Category	p-value	In Category from Cluster	k	f
+
+
+
+MDS Proteomics Complexes
+Category	p-value	In Category from Cluster	k	f
+YML032C (RAD52)	0.0245343	ALD5 	1	1
+
+
+
+Cellzome Complexes
+Category	p-value	In Category from Cluster	k	f
+
+
+
+Proteome Localization--Observed
+Category	p-value	In Category from Cluster	k	f
+
+
+
+Proteome Localization--Predicted+Observed
+Category	p-value	In Category from Cluster	k	f
+en2	0.000560349	FIG1 PHO89 FUS1 DIA3 DIT2 MFA1 FTR1 AGA2 RTA1 YHR180W FLO5 PHO12 BAR1 PRM2 LOH1 ASG7 RSF2 SFK1 CWP1 STE6 MCH2 SPO75 YLL053C YLR042C PRM6 PGA3 MFA2 AGA1 YOL047C GAS4 MF(ALPHA)1 	31	689
+cyt	0.00803223	YAL018C YAL069W YAR028W FUS3 GAL7 GAL10 ICS2 YPC1 MET8 VBA2 SUL1 AGP1 SRO9 SRD1 FIG2 GIT1 YCR099C YCR100C PRM7 AAD4 YDR042C BAP3 STE5 HIM1 HXT3 DIT1 GNP1 UTR2 YEL074W YFL012W STE2 AGP3 SNZ3 YFR054C ARI1 YGR039W MUP1 SPR3 AZR1 YHB1 MAL11 RIM4 CUP1-2 HXT4 HXT1 PFS1 IMD2 RHR2 SEE1 LSB6 FAR1 ELO1 OPT1 REE1 YJL218W BNA1 STE18 JJJ3 AAD10 YJR157W PMU1 MMP1 YLR030W YLR031W HMX1 NEJ1 YLR334C GRX8 YLR460C YRF1-5 ADI1 DIA1 AAH1 PDR16 HXT14 SNO2 ARE2 TAT2 ZEO1 ENB1 YOL160W STE4 RDL1 FAA1 REV1 SRL4 PDR12 PRM3 ICY2 SAM4 SAM3 HSP32 YPR071W AXL1 	94	3195
+
+
+
+Deletions Consortium (Essentiality, Morphology)
+Category	p-value	In Category from Cluster	k	f
+Morphology - WT	3.29737e-06	YAL018C YAR028W GAL7 GAL10 FIG1 RDH54 TEC1 YPC1 MET8 VBA2 SUL1 AGP1 FUS1 KAR4 FIG2 YCR099C YCR100C YCR101C PRM7 HO AAD4 YDR042C NRG1 BAP3 HIM1 HXT3 DIT2 DIT1 MFA1 UTR2 FCY22 ALD5 YFL012W AGP3 PES4 YFR054C AGA2 RME1 MUP1 SPR3 BTN2 RTA1 AZR1 YHB1 SPO11 RIM4 HXT4 HXT1 YHR180W PFS1 BAR1 PRM2 SEE1 YIL089W PRM5 LOH1 LSB6 FAR1 ASG7 ELO1 OPT1 REE1 YJL218W BNA1 JJJ3 RSF2 PHD1 SFK1 CWP1 PMU1 YKL162C-A MCH2 GEX2 SPO75 YLL053C MMP1 YLR030W YLR031W YLR040C YLR042C OSW2 HMX1 NEJ1 YLR334C GRX8 SST2 YLR460C PRM6 ADI1 SRT1 FUS2 DIA1 MFA2 PDR16 HXT14 SNO2 ARE2 TAT2 YOL047C RRT8 ZEO1 GAS4 ENB1 YOL160W LEU9 MPC54 RDL1 FAA1 REV1 SRL4 PDR12 MF(ALPHA)1 PRM3 ICY2 SAM4 SAM3 YPR071W AXL1 	118	3667
+
+
+
+Yeast Fitness Data
+Category	p-value	In Category from Cluster	k	f
+
+
+
+Published Complexes
+Category	p-value	In Category from Cluster	k	f
+
+
+
+
